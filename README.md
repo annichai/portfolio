@@ -1,4 +1,14 @@
-# PERSONAL-WEBSITE
-This is the implementaion code for my personal website inspired by https://dbarochiya.github.io/me/
+# Portfolio :computer:
 
-##### deployed app :
+My personal website includes
+
+- about me
+- coursework
+- projects
+- internships & experiences
+- my recipes
+
+Feel free to reach me at annichai@berkeley.edu if you have questions about me or suggestions about the website :relaxed:
+
+#### References
+Forked from: https://dbarochiya.github.io/me/
