@@ -7,7 +7,7 @@ export default class Introduction extends Component {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{backgroundImage: 'url(images/img_bg.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/wong-unsplash.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
@@ -15,7 +15,7 @@ export default class Introduction extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1>Welcome! <br />I'm Anni</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1aldKxRAjExID-1PDw_8hYl7H5YkWV0CV/view?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href="https://drive.google.com/file/d/1kOTg8a4Ip8IZ9Ay39jSCdhyCj71ZSWO4/view?usp=sharing" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
@@ -37,7 +37,7 @@ export default class Introduction extends Component {
                   </div>
                 </div>
               </li> */}
-              <li style={{backgroundImage: 'url(images/img_bg.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/joel-unsplash.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">

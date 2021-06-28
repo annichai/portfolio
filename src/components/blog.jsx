@@ -10,6 +10,7 @@ export default class Blog extends Component {
 					<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
 					<span className="heading-meta">Food</span>
 					<h2 className="colorlib-heading">Recipes</h2>
+					<p>Still cooking up!</p>
 					</div>
 				</div>
 				<div className="row">

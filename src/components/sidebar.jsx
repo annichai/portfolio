@@ -22,16 +22,16 @@ export default class Sidebar extends Component {
                   <li><a href="#expertise" data-nav-section="expertise">Skills</a></li>
                   <li><a href="#experiences" data-nav-section="timeline">Experiences</a></li>
                   <li><a href="#projects" data-nav-section="projects">Projects</a></li>
-                  <li><a href="#volunteer" data-nav-section="volunteer">Volunteer</a></li>
+                  {/* <li><a href="#volunteer" data-nav-section="volunteer">Volunteer</a></li> */}
                   <li><a href="#blog" data-nav-section="blog">Recipes</a></li>
                 </ul>
               </div>
             </nav>
             <nav id="colorlib-main-menu">
               <ul>
-                <li><a href="https://www.facebook.com/anni.chai.31" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
                 <li><a href="https://www.linkedin.com/in/anni-chai" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
                 <li><a href="https://github.com/annichai" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
+                <li><a href="mailto:annichai@berkeley.edu" target="_blank" rel="noopener noreferrer"><i className="icon-mail"></i></a></li>
               </ul>
             </nav>
             <div className="colorlib-footer">

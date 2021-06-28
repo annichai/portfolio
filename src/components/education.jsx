@@ -15,9 +15,10 @@ export default class Education extends Component {
                     <h2 className="colorlib-heading">Education</h2><img src = "https://brand.berkeley.edu/wp-content/uploads/2016/10/ucbseal_139_540.png" align= "right"  height = "180"/>
                     <p><strong>University of California, Berkeley</strong> August 2018 - May 2022(Expected)</p>
                     <ul>
-                      <li>Applied Mathematics, B.A.</li>
-                      <li>Data Science, B.A. (emphasis in Industrial and Business Analytics)</li>
-                      <li>Computer Science Minor</li>
+                        Data Science, B.A. 
+                    </ul>
+                    <ul>
+                        Emphasis in Urban Sciences
                     </ul>
                     </div>
                 </div>
